@@ -5,7 +5,8 @@ header {
 	text-align: center;
 	background-color:#33FFFC;
 	font-family:Times New Roman;
-	padding: 20px; 
+	padding: 20px;
+ 
 	}
 
 	body {
@@ -15,19 +16,22 @@ header {
 	main {
 		text-align: center;
 		font-family: Times New Roman;
-		padding: 20px;
+		padding: 20px;
+
 	 
 	}
 	ul { 
 		list-style-type: none;
-	 }
+	 }
+
 
 	a {
 		font-family: Times New Roman;
 		color: #030303;
 	}
 
-</style>
+</style>
+
 <head>
 <title>Photo Gallery</title>
 </head>
